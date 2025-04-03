@@ -49,7 +49,7 @@ login-auth-api/
 ### Passos para Executar o Projeto
 1. **Clonar o Repositório**:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/Jops-Garcia/login-auth-api.git
    cd login-auth-api
    ```
 2. **Instalar Dependências**:
